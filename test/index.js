@@ -1,8 +1,8 @@
 var expectedOutput = { 'Account before opening':
-   { balance: 1250,
+   { balance: 0, //1250,
      name: 'Azat Mardan',
-     checking: '1',
-     type: 'checking' },
+     checking: '1'},
+    //  type: 'checking' },
   'New balance after signup bonus is ': 250,
   'Account after opening':
    { balance: 1250,
